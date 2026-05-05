@@ -87,7 +87,7 @@
       "sigla_fora": "SCO",
       "confronto": "Haiti x Escócia",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -121,7 +121,7 @@
       "sigla_fora": "MAR",
       "confronto": "Brasil x Marrocos",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     },
     {
@@ -138,7 +138,7 @@
       "sigla_fora": "SUI",
       "confronto": "Catar x Suíça",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -291,7 +291,7 @@
       "sigla_fora": "SEN",
       "confronto": "França x Senegal",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     },
     {
@@ -342,7 +342,7 @@
       "sigla_fora": "JOR",
       "confronto": "Áustria x Jordânia",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -376,7 +376,7 @@
       "sigla_fora": "CRO",
       "confronto": "Inglaterra x Croácia",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -512,7 +512,7 @@
       "sigla_fora": "MAR",
       "confronto": "Escócia x Marrocos",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -529,7 +529,7 @@
       "sigla_fora": "PAR",
       "confronto": "Turquia x Paraguai",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -750,7 +750,7 @@
       "sigla_fora": "ALG",
       "confronto": "Jordânia x Argélia",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -767,7 +767,7 @@
       "sigla_fora": "GHA",
       "confronto": "Inglaterra x Gana",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -954,7 +954,7 @@
       "sigla_fora": "GER",
       "confronto": "Equador x Alemanha",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     },
     {
@@ -1022,7 +1022,7 @@
       "sigla_fora": "AUS",
       "confronto": "Paraguai x Austrália",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -1039,7 +1039,7 @@
       "sigla_fora": "FRA",
       "confronto": "Noruega x França",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -1141,7 +1141,7 @@
       "sigla_fora": "ENG",
       "confronto": "Panamá x Inglaterra",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     },
     {
@@ -1192,7 +1192,7 @@
       "sigla_fora": "ARG",
       "confronto": "Jordânia x Argentina",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -1260,7 +1260,7 @@
       "sigla_fora": "3ABCDF",
       "confronto": "1E x 3ABCDF",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -1311,7 +1311,7 @@
       "sigla_fora": "3CDFGH",
       "confronto": "1I x 3CDFGH",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     },
     {
@@ -1379,7 +1379,7 @@
       "sigla_fora": "3BEFIJ",
       "confronto": "1D x 3BEFIJ",
       "estadio": "Levi's Stadium",
-      "cidade": "San Francisco/Santa Clara",
+      "cidade": "San Francisco/banderirasSanta Clara",
       "pais": "Estados Unidos"
     },
     {
@@ -1481,7 +1481,7 @@
       "sigla_fora": "3DEIJL",
       "confronto": "1K x 3DEIJL",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     },
     {
@@ -1515,7 +1515,7 @@
       "sigla_fora": "W77",
       "confronto": "W74 x W77",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -1651,7 +1651,7 @@
       "sigla_fora": "W90",
       "confronto": "W89 x W90",
       "estadio": "Gillette Stadium",
-      "cidade": "Boston/Foxborough",
+      "cidade": "Boston/banderirasFoxborough",
       "pais": "Estados Unidos"
     },
     {
@@ -1770,9 +1770,9 @@
       "sigla_fora": "W102",
       "confronto": "W101 x W102",
       "estadio": "MetLife Stadium",
-      "cidade": "Nova York/Nova Jersey",
+      "cidade": "Nova York/banderirasNova Jersey",
       "pais": "Estados Unidos"
     }
   ],
-  "observacao_estadios": "Campos estadio, cidade e pais adicionados para uso no protótipo. Recomenda-se validar com a tabela oficial da FIFA antes de uso público/final."
+  "observacao_estadios": "Campos estadio, cidade e pais adicionados para uso no protótipo. Recomenda-se validar com a tabela oficial da FIFA antes de uso público/banderirasfinal."
 }

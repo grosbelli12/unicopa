@@ -1,6 +1,7 @@
 import { StyleSheet, Text, View, Image, ImageBackground } from "react-native";
 import GameCard from "./components/GameCard";
-import dados from "./assets/dados.json";
+import DiaCard from "./components/DiaCard";
+import dados from "./data/dados.json";
 import { SectionList } from "react-native";
 
 export default function App() {
@@ -41,12 +42,7 @@ export default function App() {
         keyExtractor={(item, index) => item + index}
         renderItem={() => null}
         renderSectionHeader={({ section }) => (
-          <View style={styles.card}>
-            <Text style={styles.title}>{section.title.split("-").reverse().join("/")}</Text>
-            {section.data.map((jogo) => (
-              <GameCard key={jogo.id} game={jogo} />
-            ))}
-          </View>
+          <DiaCard dia={section} />
         )}
       />
     </ImageBackground>
